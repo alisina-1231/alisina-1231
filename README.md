@@ -7,7 +7,7 @@ I enjoy working close to systems — improving **stability, uptime, and reliabil
 
 ---
 
-## 🚀 DevOps Journey (In Progress)
+## 🚀 DevOps Journey
 
 ### 🧠 Core Foundations
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
