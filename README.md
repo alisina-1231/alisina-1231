@@ -54,4 +54,4 @@ Service Delivery Engineer
 
 ## 📫 Connect
 
-LinkedIn: [Ali Sina Qasimi] https://www.linkedin.com/in/ali-sina-qasimi-5414561b7/
+LinkedIn: [Ali Sina Qasimi](https://www.linkedin.com/in/ali-sina-qasimi-5414561b7/)
