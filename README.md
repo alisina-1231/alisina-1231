@@ -1,4 +1,4 @@
-👋 Hi, I'm Ali Sina Qasimi
+Hi, I'm Ali Sina Qasimi
 
 Service Delivery Engineer | AWS Certified Solutions Architect – Associate | Cloud & DevOps
 
